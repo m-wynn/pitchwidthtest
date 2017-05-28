@@ -1,0 +1,7 @@
+[package]
+name = "fonttest-rs"
+version = "0.1.0"
+authors = ["Matthew Wynn <matthew@matthewwynn.com>"]
+
+[dependencies]
+freetype-rs = "0.13.0"
